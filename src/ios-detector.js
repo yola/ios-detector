@@ -1,5 +1,7 @@
 'use strict';
 
+/* global navigator */
+
 /**
  * An array of iOS devices to be detected.
  * These strings are found within a browser's user agent.

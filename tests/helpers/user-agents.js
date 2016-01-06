@@ -1,5 +1,7 @@
 'use strict';
 
+/* global navigator */
+
 const nativeNavigator = navigator;
 
 export const userAgents = require('./user-agents.json');
