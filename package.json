@@ -1,6 +1,6 @@
 {
   "name": "ios-detector",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "author": "Yola Engineering <engineering@yola.com>",
   "description": "A module that adds a CSS class when it detects the browser is on Apple iOS.",
   "homepage": "https://github.com/yola/ios-detector",
