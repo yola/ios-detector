@@ -27,22 +27,22 @@
     "url": "https://github.com/yola/ios-detector/issues"
   },
   "dependencies": {
-    "babel-preset-es2015": "^6.5.0",
-    "babelify": "^7.2.0"
+    "babel-preset-es2015": "6.5.x",
+    "babelify": "7.2.x"
   },
   "devDependencies": {
-    "browserify": "^12.0.0",
-    "chai": "^3.5.0",
-    "jsgreat": "^0.1.7",
-    "jshint": "^2.9.1",
-    "karma": "^0.13.19",
-    "karma-browserify": "^5.0.1",
-    "karma-mocha": "^0.2.1",
-    "karma-phantomjs-launcher": "^1.0.0",
+    "browserify": "12.0.x",
+    "chai": "3.5.x",
+    "jsgreat": "0.1.x",
+    "jshint": "2.9.x",
+    "karma": "0.13.x",
+    "karma-browserify": "5.0.x",
+    "karma-mocha": "0.2.x",
+    "karma-phantomjs-launcher": "1.0.x",
     "karma-spec-reporter": "0.0.24",
-    "mocha": "^2.4.5",
-    "phantomjs-prebuilt": "^2.1.4",
-    "watchify": "^3.7.0"
+    "mocha": "2.4.x",
+    "phantomjs-prebuilt": "2.1.x",
+    "watchify": "3.7.x"
   },
   "files": [
     ".babelrc",
