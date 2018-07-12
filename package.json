@@ -31,18 +31,18 @@
     "babelify": "7.2.x"
   },
   "devDependencies": {
-    "browserify": "12.0.x",
-    "chai": "3.5.x",
-    "jsgreat": "0.1.x",
-    "jshint": "2.9.x",
-    "karma": "0.13.x",
-    "karma-browserify": "5.0.x",
-    "karma-mocha": "0.2.x",
-    "karma-phantomjs-launcher": "1.0.x",
-    "karma-spec-reporter": "0.0.24",
-    "mocha": "2.4.x",
-    "phantomjs-prebuilt": "2.1.x",
-    "watchify": "3.7.x"
+    "browserify": "~16.2.2",
+    "chai": "~4.1.2",
+    "jsgreat": "~0.1.9",
+    "jshint": "~2.9.0",
+    "karma": "~2.0.4",
+    "karma-browserify": "~5.3.0",
+    "karma-mocha": "~1.3.0",
+    "karma-phantomjs-launcher": "~1.0.0",
+    "karma-spec-reporter": "~0.0.32",
+    "mocha": "~5.2.0",
+    "phantomjs-prebuilt": "~2.1.0",
+    "watchify": "~3.11.0"
   },
   "files": [
     ".babelrc",
