@@ -1,5 +1,11 @@
 # Changelog
 
+## Dev
+
+- Add .npmrc to set `save-prefix`
+- Update dev dependencies and dependencies for Node 8
+- Update Node versions in `.travis.yml`
+
 ## 0.1.2
 
 Pin dependencies to minor versions
