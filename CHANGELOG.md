@@ -1,6 +1,6 @@
 # Changelog
 
-## Dev
+## 1.0.0
 
 - Add .npmrc to set `save-prefix`
 - Update dev dependencies and dependencies for Node 8
